@@ -1,0 +1,5 @@
+*.pcs
+venv
+*.egg-info
+__pycache__
+*.zip
