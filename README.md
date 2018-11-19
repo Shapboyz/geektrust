@@ -2,8 +2,8 @@
 Solution for Set2Problem1
 
 Installition
-1) Create a virtual env with python 3.6.5
-    If python3 is installed - python3.6.5 -m venv venv
+1) Create a virtual env with python 3.6
+    If python3 is installed - python3.6 -m venv venv
 2) Once done, activate the virtual env with
   . Set2Problem1/venv/bin/activate (Linux or)
   source Set2Problem1/venv/bin/activate (Mac and windows)
